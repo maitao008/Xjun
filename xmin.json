@@ -1,4 +1,4 @@
-﻿{
+{
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
   "spider": "https://ghproxy.com/https://github.com/haha2313/cattv/blob/main/maomao/other/xm/xm.jar",
   "lives": [
@@ -8,7 +8,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=Y2xhbjovL3htL3R2L2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL2hhaGEyMzEzL2NhdHR2QG1haW4vbWFvbWFvL3R2L2xpdmUudHh0"
           ]
         }
       ]
@@ -53,7 +53,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    //{
+    {
       "key": "csp_Kumao",
       "name": "🐱酷猫",
       "type": 3,
@@ -113,7 +113,7 @@
       "filterable": 0,
       "ext": "مواء الراكون"
     },
-    //{
+    {
       "key": "csp_GitCafe",
       "name": "🦊小纸条",
       "type": 3,
@@ -372,7 +372,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/维奇动漫.json"
     },
-    //{
+    {
       "key": "csp_biubiu_真不卡影院-不支持搜索",
       "name": "🥒真不卡影院-不支持搜索(XB)",
       "type": 3,
@@ -412,7 +412,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/COKEMV.json"
     },
-    //{
+    {
       "key": "csp_biubiu_饭团影院",
       "name": "🥒饭团影院(XB)",
       "type": 3,
@@ -422,7 +422,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/饭团影院.json"
     },
-    //{
+    {
       "key": "csp_biubiu_奇粹影院",
       "name": "🥒奇粹影院(XB)",
       "type": 3,
@@ -432,7 +432,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/奇粹影院.json"
     },
-    //{
+    {
       "key": "csp_biubiu_hdmoli",
       "name": "🥒hdmoli(XB)",
       "type": 3,
@@ -482,7 +482,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/骚火电影.json"
     },
-    //{
+    {
       "key": "csp_biubiu_莫扎兔",
       "name": "🥒莫扎兔(XB)",
       "type": 3,
@@ -492,7 +492,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/莫扎兔.json"
     },
-    //{
+    {
       "key": "csp_biubiu_LIBVIO",
       "name": "🥒LIBVIO(XB)",
       "type": 3,
@@ -512,7 +512,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/周末电影.json"
     },
-    //{
+    {
       "key": "csp_biubiu_神马接口",
       "name": "🥒神马接口(XB)",
       "type": 3,
@@ -522,7 +522,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/神马接口.json"
     },
-    //{
+    {
       "key": "csp_biubiu_9亿资源",
       "name": "🥒9亿资源(XB)",
       "type": 3,
@@ -622,7 +622,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/神马影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_北川影视",
       "name": "🥒北川影视(XB)",
       "type": 3,
@@ -742,7 +742,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/看一看影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_1080Kkk",
       "name": "🥒1080Kkk(XB)",
       "type": 3,
@@ -772,7 +772,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/人人影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_乌龟影院",
       "name": "🥒乌龟影院(XB)",
       "type": 3,
@@ -852,7 +852,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/爱港剧.json"
     },
-    //{
+    {
       "key": "csp_biubiu_思古影视",
       "name": "🥒思古影视(XB)",
       "type": 3,
@@ -892,7 +892,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/小熊影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_影视之光",
       "name": "🥒影视之光(XB)",
       "type": 3,
@@ -912,7 +912,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/手机看剧.json"
     },
-    //{
+    {
       "key": "csp_biubiu_克拉TV",
       "name": "🥒克拉TV(XB)",
       "type": 3,
@@ -1012,7 +1012,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/大象TV.json"
     },
-    //{
+    {
       "key": "csp_biubiu_小猫咪",
       "name": "🥒小猫咪(XB)",
       "type": 3,
@@ -1042,7 +1042,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/蓝莓影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_耐看点播",
       "name": "🥒耐看点播(XB)",
       "type": 3,
@@ -1052,7 +1052,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/耐看点播.json"
     },
-    //{
+    {
       "key": "csp_biubiu_虎猫",
       "name": "🥒虎猫(XB)",
       "type": 3,
@@ -1062,7 +1062,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/虎猫.json"
     },
-    //{
+    {
       "key": "csp_biubiu_TVB云播",
       "name": "🥒TVB云播(XB)",
       "type": 3,
@@ -1072,7 +1072,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/TVB云播.json"
     },
-    //{
+    {
       "key": "csp_biubiu_98播播网",
       "name": "🥒98播播网(XB)",
       "type": 3,
@@ -1132,7 +1132,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/星空影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_不开VIP",
       "name": "🥒不开VIP(XB)",
       "type": 3,
@@ -1152,7 +1152,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/豆角网.json"
     },
-    //{
+    {
       "key": "csp_biubiu_稀饭影视",
       "name": "🥒稀饭影视(XB)",
       "type": 3,
@@ -1292,7 +1292,7 @@
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/haha2313/cattv@main/maomao/other/xm/MeowXB/极品影视.json"
     },
-    //{
+    {
       "key": "csp_biubiu_大师兄影视",
       "name": "🥒大师兄影视(XB)",
       "type": 3,

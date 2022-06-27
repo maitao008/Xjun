@@ -485,8 +485,8 @@
                     ]
                 }
             ]
-        }
-    ],
+        }],
+
 //"lives":[{"group":"redirect","channels":[{"name":"资源来自网络其他大神","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL1l1YW5Ic2luZy9PbmVDbGlja1J1bkBtYXN0ZXIveHBhdGgvbGl2ZS50eHQ="]}]}],
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},

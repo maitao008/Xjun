@@ -5,7 +5,7 @@
 //"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
 //"spider": "https://gitea.com/mai007/mtv/raw/commit/a6fb2f711efd9015ba97015804f41ccd0aca11f5/w30.jar",
 "spider":"https://gitee.com/maitao007/mao/raw/master/ts.jar",
-//"spider":"https://gitee.com/maitao007/mao/raw/master/%E6%9C%80%E6%96%B0529.jar",
+//"spider":"https://gitee.com/maitao007/mao/raw/master/ts74.jar",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 
@@ -21,9 +21,13 @@
   {"key":"Cokemv","name":"Cokemv影视(优)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Auete","name":"Auete影视(优)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Nfyun","name":"NF云影视(优)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"Bili","name":"哔哩哔哩(优)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pandora2277.github.io/tester.json"},
+  {"key":"Bili","name":"哔哩哔哩(优)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/wanglei52076/TVBox/raw/branch/main/TVBox/xb/bili.json"},
   {"key":"美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
 
+  {"key":"Gitcafe","name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
+  {"key":"AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
+  {"key":"push_agent","name":"阿里推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
+  
 //spider --> baikan.jar
 //{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},

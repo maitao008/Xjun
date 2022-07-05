@@ -188,17 +188,24 @@
 "zhujiexi":[
 {"name":"解析1","url":"http://api.vip123kan.vip/?url="},
 {"name":"解析2","url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
-{"name":"解析3","url":"https://jhpc.manduhu.com/j1217.php?url="}
+{"name":"解析3","url":"https://jhpc.manduhu.com/j1217.php?url="},
+{"name":"解析5","url":"http://106.55.234.91:4433/?url="},
+{"name":"解析6","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"解析7","url":"http://81.71.48.249:4456/jsonc/293shipin.php?url="},
+{"name":"解析8","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
+{"name":"解析9","url":"https://vip.parwix.com:4433/player/?url="},
+{"name":"解析10","url":"https://z1.m1907.cn/?jx="}
 ],
 
 //备用解析是常规格式的解析
 "beiyongjiexi": [
-{"name":"解析2","url":"www.xxx.url="},
-{"name":"解析3","url":"www.xxx.url="}
+{"name":"解析1","url":"https://json.pangujiexi.com:12345/json.php?url="},
+{"name":"解析2","url":"http://app.jhys.top/1080kan/fuck.php?url="},
+{"name":"解析3","url":"https://jx.xuanqi.pro/?url="}
 ],
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://wp.wangshi520.com/down.php/4e4125f56d12b73f7215560c0fd195d3.txt",
+"dianshizhibo": "https://freed.yuanhsing.cf/BiuBiu/live.txt",
 
 //填写播放地址过滤规则，中间用#号分割，不用填太多，默认的基本够用，主要是针对自定义的网站过滤的。
 "guolvdizhi": "player.css#url=#51.la#poster#api.php#file=#auth_#cnzz.com",

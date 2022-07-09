@@ -21,7 +21,7 @@
   {"key":"Nfyun","name":"NF云影视(优)","type":3,"api":"csp_Nfyun","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Bili","name":"哔哩哔哩(优)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/wanglei52076/TVBox/raw/branch/main/TVBox/xb/bili.json"},
   {"key":"美剧虫","name":"美剧虫(优)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://meijuchong.com/api.php/v1.vod"},
-
+{"key":"9E03","name":"📮9E03(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable" :1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
   {"key":"Gitcafe","name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
   {"key":"AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
   {"key":"push_agent","name":"阿里推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},

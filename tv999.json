@@ -3,7 +3,7 @@
 //"spider":"img+https://gitee.com/maitao007/mao/raw/master/custom_spider_1651202998.bmp",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
-"spider":"https://gitea.com/mai007/mtv/raw/branch/master/ONE/custom_spider.jar",
+"spider":"https://shuyuan.miaogongzi.net/shuyuan/1658918413.txt",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 
@@ -12,7 +12,8 @@
   {"key":"Kuaikan","name":"快看影视(优)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"360","name":"360影视(优)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"小苹果","name":"小苹果(优)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"低端影视","name":"低端影视(优)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+  {"key": "神马影院","name": "神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+  //{"key":"低端影视","name":"低端影视(优)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"zxzj","name":"在线之家(优)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"ikan_spider","name":"爱看(SP)","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
   //{"key":"Mayi","name":"麻衣高清(优)","type":3,"api":"csp_Mayi","searchable":1,"quickSearch":1,"filterable":1},

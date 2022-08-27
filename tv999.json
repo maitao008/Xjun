@@ -2,8 +2,8 @@
 //"spider":"http://gg.gg/11pi4a",
 //"spider":"img+https://gitee.com/maitao007/mao/raw/master/custom_spider_1651202998.bmp",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
-//"spider":"https://gitee.com/maitao007/mao/raw/master/baikan.jar",
-"spider":"https://gitea.com/mai007/mtv/raw/branch/master/ONE/818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+//"spider":"https://gitea.com/mai007/mtv/raw/branch/master/ONE/818.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 

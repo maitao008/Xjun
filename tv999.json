@@ -3,7 +3,7 @@
 //"spider":"img+https://gitee.com/maitao007/mao/raw/master/custom_spider_1651202998.bmp",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
 //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087",
-"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;A20D905572096E70FE12FDB3B5BAFAFA",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;6C29044B49D626110189E8B0763C02B5",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 

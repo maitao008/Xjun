@@ -68,19 +68,6 @@
   //{"key":"push_agent","name":"阿里推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
   //{"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"},
   
-//spider --> baikan.jar
-//{"key":"csp_77","name":"77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_kmys","name":"酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"2345","name":"2345影视(官源)","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/2345.json"},
-//{"key":"sogou_spider","name":"搜狗影视(官源)","type":3,"api":"csp_YSSogou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/sogou.json"},
-//{"key":"csp_360","name":"360(官源)","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/360P.json"},
-//{"key":"epang_spider","name":"阿房(SP)","type":3,"api":"csp_EPangApp","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"sd_spider","name":"闪电(SP)","type":3,"api":"csp_Sd","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"csp_auete","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Auete2.json"},
-//{"key":"mjxq_spider","name":"美剧星球(SP)","type":3,"api":"csp_MjxqApp","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"auete_spider","name":"Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/Auete.bmp"},
-//{"key":"buka_spider","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/zhenbuka.bmp"},
-//{"key":"ftys_spider","name":"饭团(SP)","type":3,"api":"csp_Ftys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YuanHsing/OneClickRun@master/xpath/fantuan.bmp"},
 
   {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ftyyy.tk/json/Bili.json","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087"},
 {"key": "csp_Biliych","name":"🅱哔哩演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ftyyy.tk/json/Biliych.json","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087"},

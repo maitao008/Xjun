@@ -1,8 +1,8 @@
 ﻿{
 //"spider":"http://gg.gg/11pi4a",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
-"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
-//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top.jar;md5;D93CBF5D95305D7969AAAD64F62DED8D",
+//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;34D8FC113483ADDD0C91DEB288B25E32",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top.jar;md5;D93CBF5D95305D7969AAAD64F62DED8D",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -13,7 +13,7 @@
  //{"key": "T4","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "T4","name": "🔍豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_AppTT","name": "🆗TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_AppTT","name": "🆗TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/XC.jar;md5;34D8FC113483ADDD0C91DEB288B25E32"},
  {"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},

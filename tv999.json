@@ -1,15 +1,15 @@
 ﻿{
 //"spider":"http://gg.gg/11pi4a",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
-"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E5%85%A8.jar;md5;8306A05338732B377C9CEEEA3F4BC066",
-//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top.jar;md5;D93CBF5D95305D7969AAAD64F62DED8D",
+//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E5%85%A8.jar;md5;8306A05338732B377C9CEEEA3F4BC066",
+"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/top.jar;md5;D93CBF5D95305D7969AAAD64F62DED8D",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
 
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "Zjdr","name": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
+//{"key": "Zjdr","name": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
  //{"key": "T4","name": "T4公共","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "T4","name": "🔍豆瓣荐片(T4桉)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
  {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},

@@ -46,7 +46,7 @@
 {"key": "小熊","name": "🐻小熊TV(SP)","type": 3,"api": "csp_Xxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"3EDY","name":"🗽3EDY(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/top98.jar"},
+  {"key":"GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/top98.jar"},
 {"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/sou.jar"},
 {"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/sou.jar"},
 //{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "3781469b13074e4cac1e0e7113e4fa20"},

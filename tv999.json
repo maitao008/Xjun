@@ -2,7 +2,7 @@
 //"spider":"http://gg.gg/11pi4a",
 //"spider":"https://pan.bilnn.com/api/v3/file/sourcejump/wXBo8ETZ/LZ3jUjQZLcWlILpDXi8_y4DnQx0PTGZlxxAL-fgj8zM*",
 "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/panda.jar;md5;269EEF73C59BAAC6561F70DE2F676586",
-//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1104.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
+//"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1104.jar",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[

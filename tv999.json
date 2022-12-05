@@ -36,7 +36,7 @@
 
   {"key":"Lgyy","name":"蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Zjdr","name": "追剧达人","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
- {"key":"csp_DiDuan" ,"name":"🐞低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","click":"ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"KanSJ_spider","name":"🗽看视界(SP)","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_Wmkk","name":"👁‍完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_apple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -91,11 +91,7 @@
 {"key":"mang","name":"🍋芒guo(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"so","name":"⚽搜gou(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"]},
   {"key":"9E03","name":"📮9E03(V2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable" :1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
-  //{"key": "zhaozy","name": "找资源","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "ad3c78559a494bde814f1a6c8c40db51"},
-  //{"key":"Gitcafe","name":"阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
-  //{"key":"AliPS","name":"阿里盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"a12a64ed2fb54a7590846e0985056453"},
-  //{"key":"push_agent","name":"阿里推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"a12a64ed2fb54a7590846e0985056453"},
-  //{"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"},
+ //{"key": "bdys","name": "哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"},
   
 
   {"key": "csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ftyyy.tk/json/Bili.json","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087"},

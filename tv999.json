@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/duo.jar;md5;08607746A6A110250EB99B0542328950",
+"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/duo.jar;md5;F2033D866764F455920D417126F76468",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -76,7 +76,8 @@
 {"key": "csp_xb_aikan ","name": "爱看影视┃R","type": 3,"api": "csp_XBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---"},
 {"key":"csp_xBPQ_秋霞影视","name":"🍀秋霞影视（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mai008/mt/-/raw/master/XBPQ/%E7%A7%8B%E9%9C%9E%E5%BD%B1%E8%A7%86.json"},
 {"key":"csp_xBPQ_骚火电影","name":"🍀骚火电影（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mai008/mt/-/raw/master/XBPQ/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
-   
+
+ {"key": "csp_Alist1","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/mai008/mt/-/raw/master/sub/Alist1.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/maitao007/mao/raw/master/js/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},

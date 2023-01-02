@@ -78,7 +78,7 @@
 {"key":"csp_xBPQ_骚火电影","name":"🍀骚火电影（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/mai008/mt/-/raw/master/XBPQ/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"},
 
  {"key": "csp_Alist1","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/mai008/mt/-/raw/master/sub/Alist1.json"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitee.com/maitao007/mao/raw/master/js/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitlab.com/mai008/mt/-/raw/master/js/lib/drpy2.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},

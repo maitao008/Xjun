@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/duo.jar;md5;97FBB873452D83D35427663089E3B4A3",
+"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/duo.jar;md5;9E983D8088D8591CBCEDD8FD14731E31",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -8,7 +8,7 @@
 {"key":"csp_77","name":"🎬77(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_AppTT","name": "🆗TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1, "ext":"http://124.248.66.107:9955"},
+{"key": "csp_AppTT","name": "🆗TT","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1, "ext":"http://124.248.66.89:7788"},
 {"key":"csp_Xinsj","name":"🐯新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_panghu","name":"🐯胖虎(SP)","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},

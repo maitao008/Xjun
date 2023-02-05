@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gitlab.com/mai008/mt/-/raw/master/jarcf/duo.jar;md5;DDE1257BB4942C44BBCBA16EBEB0A024",
+"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/duo.jar;md5;C4C75AB20901A7E1998FB1626C7368F7",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -81,13 +81,13 @@
 
  {"key": "csp_Alist1","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/mai008/mt/-/raw/master/sub/Alist1.json"},
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://gitlab.com/mai008/mt/-/raw/master/js/lib/alist.min.js","ext":"https://gitee.com/lhacpt623/tvbox/raw/master/js/alist.json"},
-{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
-{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
-{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
-{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
-{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
+{"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
+{"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
+{"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
+{"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://gitlab.com/mai008/mt/-/raw/master/sub/token.txt"},
+{"key":"push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://github-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
    
  //{"key":"GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/ali.zip"},
 //{"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://gitee.com/maitao007/mao/raw/master/XP/token.txt","jar":"https://gitee.com/maitao007/mao/raw/master/jarcf/sou.jar"},

@@ -1,6 +1,6 @@
 {
 
-"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/cc.jar;md5;eb433f3b00e991e6ba6509cffc99672c",
+"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/cc.jar;md5;c7a548f950e99c50a3465918f2aab475",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[
@@ -23,6 +23,7 @@
 {"key":"csp_Slsp","name":"🍅石榴","type":3,"api":"csp_Slsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github-raw.nite07.com/maitao008/mt/master/sub/slsp.json"},
 {"key":"Tian","name":"🆗天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
 {"key": "csp_panghu","name":"🐯胖虎(SP)","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_AppMr","name":"👻明明影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bd","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},

@@ -1,6 +1,6 @@
 {
 
-"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/cc.jar;md5;4e0bfc64c903656d3d41a5744abd78e3",
+"spider":"https://github-raw.nite07.com/maitao008/mt/master/jarcf/cc.jar;md5;f0b88d8b6282399207d998a7106bb1ec",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 "sites":[

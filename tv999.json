@@ -1,6 +1,6 @@
 {
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/cc.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/cc.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[  {
             "name": "live",
@@ -61,7 +61,7 @@
 {"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://g-raw.nite07.com/maitao008/mt/master/jarcf/ts.jar"},
 
  {"key": "csp_Alist1","name": "🗂Alist合集","type": 3,"api": "csp_AList","searchable": 1,"filterable": 1,"ext":"https://gitlab.com/mai008/mt/-/raw/master/sub/Alist1.json"},
-
+{"key":"FanYY","name":"💦剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/tok.txt"},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Paper","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://g-raw.nite07.com/maitao008/mt/master/sub/token.txt$$$yingshi$$$abcd1234"},

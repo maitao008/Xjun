@@ -1,6 +1,6 @@
 ﻿{
 
-"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;EBB1F03776FE4CB56896B10B7834739C",
+"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/Yoursmile.jar;md5;10EB32E7F059984CBA18EE3A8B764470",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              "lives":[  {
             "name": "live",
@@ -20,6 +20,8 @@
 {"key":"csp_如意4K","name":"🚀如意4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_黄黄","name":"😎黄黄","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"红红","name":"🌈红红","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
+{"key":"多米","name":"🌽️多米","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"},
+{"key":"鸭鸭","name":"🦆鸭鸭","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$sdlw1111$$$qqaa1122"},
 {"key":"csp_YQKAPP","name":"🌎一起看TV","type":3,"api":"csp_YQKAPP","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},

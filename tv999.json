@@ -15,6 +15,7 @@
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"U2c3aDRRb0xMQnpWVjRhY1NSSyNIdW8wTkVCZG91ZWw=$$$U3FYMms0cWJZR2kzbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+{"key":"csp_探探","name":"探探┃App","type":3,"api":"csp_YT","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_MeiJu69","name": "69美剧","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://www.69mj.com/xgapp.php/v2/"},
 {"key":"酷影","name":"🚀酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"],"ext":"http://ys.realdou.cn/api.php/app/"},

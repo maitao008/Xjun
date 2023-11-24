@@ -1,43 +1,43 @@
 {
   "urls": [
   { 
-    "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/maitao008/mt/master/tv666.json",
+    "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/tv666.json",
 "name": "tv666"
     },
 {
-     "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+     "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
       "name": "高天流云 No.1"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
       "name": "高天流云 PG"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
       "name": "高天流云 FTY"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
       "name": "高天流云 TS"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
       "name": "高天流云 XBPQ"
     },
     {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "高天流云 XYQ"
     },
      {
-      "url": "https://gh-proxy.com/https:/raw.githubusercontent.com/gaotianliuyun/gao/master/lf.json",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/lf.json",
       "name": "高天流云 LF"
     }
   ]

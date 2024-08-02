@@ -84,7 +84,7 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_SP2345","name":"2️⃣2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/mt/master/jarcf/x.jar"},
-{"key":"csp_SP33","name":"📺三三┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_SP360","name":"💘360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key": "dr_兔小贝","name": "兔小贝(道长)","type": 1,"api": "http://150.230.98.142:5705/vod?rule=兔小贝","searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key":"少儿教育","name":"📚少儿教育（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/mt/master/sub/Bili/少儿教育.json"},

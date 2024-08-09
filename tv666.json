@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;EDB69519C6D166DAC496FC989F878A36",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -30,6 +30,7 @@
 {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Jiaozi","name":"🥣饺子","type":3,"api":"csp_Jiaozi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_csp_Appxdys","name":"💥兄弟","type":3,"api":"csp_csp_Appxdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"csp_Appmq","name":"🍓煤球","type":3,"api":"csp_Appmq","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"热播","name":"🚀热播","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"萌米","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
@@ -69,7 +70,6 @@
 {"key":"csp_Yisou","name":"🆎XYQ易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
 {"key":"csp_XYQHikerAL_阿里土豆","name":"🥔阿里土豆","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/土豆.json"},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-{"key":"csp_XYQHikerAL__影搜","name":"😈影搜","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/影搜.json"},
 {"key":"csp_XYQHikerAL__ED3000","name":"0️⃣ED3000","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/ED3000.json"},
 {"key":"csp_XYQHikerAL_六趣","name":"6️⃣六趣","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/六趣.json"},
 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/gaogao/master/json/alist.json"},

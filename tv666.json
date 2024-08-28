@@ -5,6 +5,7 @@
 "sites":[
 
 {"key":"csp_DouDou","name":"🔍豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
+{"key":"ConfigCenter","name":"🅿网盘配置中心","type":3,"api":"csp_ConfigCenter","searchable":0,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"玩偶gg","name":"👽玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"http://127.0.0.1:9978/file/TVBox/wogg.json"}},
@@ -56,6 +57,7 @@
 {"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+{"key":"csp_PanSearch","name":"📀盘搜索","type":3,"api":"csp_PanSearch","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
 {"key":"csp_PanTa","name":"🍄盘他","type":3,"api":"csp_PanTa","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://127.0.0.1:9978/file/TVBox/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},

@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B",
+"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;975457C21B8081448B06A69BADF7610B",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -11,6 +11,7 @@
 {"key":"玩偶gg","name":"👽玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},
+{"key":"csp_Jpys","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},

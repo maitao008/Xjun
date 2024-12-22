@@ -7,6 +7,10 @@
     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
 "name": "南风"
     },
+  {
+     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/dianshi.json",
+      "name": "dianshi"
+    },
 {
      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0821.json",
       "name": "高天流云 No.1"

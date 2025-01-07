@@ -1,38 +1,38 @@
 {  "urls": [
   { 
-    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/Xjun/main/tv666.json",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/Xjun/main/tv666.json",
 "name": "tv666"
     },
    { 
-    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+    "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
 "name": "南风"
     },
   {
-     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/dianshi.json",
+     "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/dianshi.json",
       "name": "dianshi"
     },
 {
-     "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0821.json",
+     "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0821.json",
       "name": "高天流云 No.1"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0825.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0825.json",
       "name": "高天流云 PG"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0826.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0826.json",
       "name": "高天流云 FTY"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0827.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/0827.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/jsm.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/jsm.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/XYQ.json",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/maitao008/qistbox/refs/heads/master/XYQ.json",
       "name": "高天流云 XYQ"
     }
   ]

@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;1BBCDC87C52A597BD477835210444911",
+"spider":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;1EFB59D8EA970DAA38B302A3E5D9C4D7",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -12,7 +12,7 @@
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"金牌","name":"🥇金牌","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ReBo","name":"☀️热播","type":3,"api":"csp_ReBo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.czzyvideo.com"},
+{"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzymovie.com/"},
 {"key":"csp_LiteApple","name":"🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Siren","name":"🎉️私人","type":3,"api":"csp_Siren","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kanke","name":"🛳️看客","type":3,"api":"csp_Kanke","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.guaziys.com"},
@@ -62,7 +62,7 @@
 {"key":"欧哥","name":"🅾欧哥","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://woog.nxog.eu.org","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
 {"key":"多多","name":"🌟多多","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
 {"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://muou.6qu.top","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
-{"key":"MIUC","name":"💌MIUC","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://www.mucpan.cc/","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
+{"key":"MIUC","name":"💌MIUC","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/peizhi.json","siteUrl":"https://mucpan.cc/","filter":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/wogg.json"}},
 {"key":"闪电","name":"⚡闪电","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://1.95.79.193","filter":"https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"}},
 {"key":"盘Ta","name":"🍥盘Ta","type":3,"api":"csp_PanTa","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.91panta.cn/","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://www.4.star2.cn/","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},

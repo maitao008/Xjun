@@ -1,6 +1,6 @@
 { 
 
-"spider":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;1EFB59D8EA970DAA38B302A3E5D9C4D7",
+"spider":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/Xjun/main/Yoursmile.jar;md5;DA7ABF476F40EA800B8036D5E522CD3B",
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites":[
 
@@ -86,12 +86,13 @@
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/初中课堂.json","cookie":""}},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/高中课堂.json","cookie":""}},
 {"key": "csp_Blidw","name":"动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/mt/master/jarcf/00test.jar;md5;722596334701127B12E81196C9C4B35F"},
+{"key":"游戏直播","name":"🙀游戏直播","type":3,"api":"csp_Living","searchable":1,"changeable":0,"ext":"https://lemonlive25.pages.dev"},
 
 {"key":"drpy_js_310直播","name":"体育|310直播[js]","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","ext":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/gaogao/master/js/310直播.js"},
 {"key":"csp_XPath_鹅直播","name":"🐧企鹅直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/mt/master/sub/企鹅直播.json"},
 {"key":"JRS赛事直播","name":"🏀JRS赛事直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/maitao008/mt/master/sub/JRS赛事直播.json"},
 {"key":"酷奇MV","name":"🎸酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
-{"key":"有声小说吧","name":"有声小说吧","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/js/有声小说吧.js"},
+{"key":"有声小说吧","name":"📚有声小说吧","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/js/有声小说吧.js"},
 
 {"key":"量子","name":"💢量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
 {"key":"非凡","name":"💢非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","欧美剧","记录片","台湾剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫"]},	
